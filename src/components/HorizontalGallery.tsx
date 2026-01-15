@@ -5,7 +5,7 @@ import posterImage from "@/assets/poster.jpg";
 import videoThumbnail from "@/assets/videoThumbnail.jpg";
 import QRcode from "@/assets/QR.jpg";
 
-const VIDEO_URL = "https://www.youtube.com/watch?v=P7hueEv6jmU";
+const VIDEO_URL = "https://youtu.be/RgnQ3KSjH6g?si=EnJxBaUrR5cB3rQL";
 const QR_LINK = "https://docs.google.com/document/d/1-ALFAqUIJEG-oxICF0QzORpq2sZ_Dybs/edit?usp=sharing&ouid=112914405909596528275&rtpof=true&sd=true";
 
 const HorizontalGallery = () => {
